@@ -8,6 +8,7 @@ MPA is a methodology of exchange of model data between CAD systems using macro f
 * [MPA homepage](http://macro-parametrics.org/)
 * [TransCAD Git repository](https://github.com/Macro-parametrics/TransCAD)
 * [Facebook Page](https://www.facebook.com/TransCAD.shhan/?view_public_for=100758018211718)
+* [MPA-related Latest Published Paper](https://doi.org/10.1093/jcde/qwaa043)
 
 # Compiling
 Development Environment
